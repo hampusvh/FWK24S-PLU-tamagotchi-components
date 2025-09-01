@@ -1,0 +1,13 @@
+.health-bar-container {
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 6px;
+    width: 500px;
+}
+
+.health-bar-container .health-bar-amount {
+    height: 10px;
+    width: 75%;
+    background-color: greenyellow;
+    border-radius: 6px;
+}

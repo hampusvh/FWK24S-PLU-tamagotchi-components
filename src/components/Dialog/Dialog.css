@@ -1,0 +1,26 @@
+.dialog {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    border: 2px solid black;
+    padding: 20px;
+}
+
+button {
+    font-family: "ProggySquareTTSZ", monospace;
+    font-size: 25px;
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 10px;
+    width: 100%;
+    cursor: pointer;
+}

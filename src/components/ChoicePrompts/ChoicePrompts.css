@@ -1,0 +1,11 @@
+.choice-prompts-container {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.choice-prompts-container .choice {
+    width: 100%;
+    padding: 10px;
+    text-align: left;
+}

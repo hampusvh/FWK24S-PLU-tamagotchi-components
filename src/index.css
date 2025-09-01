@@ -1,0 +1,18 @@
+@import url(https://db.onlinewebfonts.com/c/a5eb42c233390c9259ffdc799daeb838?family=ProggySquareTTSZ);
+
+body {
+  font-family: "ProggySquareTTSZ", monospace;
+  font-size: 25px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
