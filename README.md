@@ -1,2 +1,2 @@
-# Grupparbete, Tamagotchi (Components)
+# Tamagotchi (Components)
 
